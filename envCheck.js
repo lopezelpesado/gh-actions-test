@@ -1,3 +1,3 @@
-const envVars = process.env.CI;
+const envVars = process.env;
 
 console.log({envVars});
